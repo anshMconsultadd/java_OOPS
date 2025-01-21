@@ -6,3 +6,4 @@ public class getting {
         Singelton obj2=Singelton.getinstance();
     }
 }
+
